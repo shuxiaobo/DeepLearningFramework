@@ -1,0 +1,6 @@
+pytorch
+pprint
+json
+tensorflow
+tensorboardX
+tensorboard
