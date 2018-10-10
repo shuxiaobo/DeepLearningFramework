@@ -3,7 +3,7 @@
 This repository is implement for NLP reseacher who can use the pytorch(tensorflow will be supplied after)
 The purpose I create the repository is to accelerate the coding procedure. if you don't want to focus on the model code,
  create new model, or explore some interesting task. I think this one could help you a lot. you can concentrate on model
-  code just by re-implement the code in models(there will give you a example).
+  code just by re-implement the code in models(An example will be given).
   
 ## Code Structure
 
